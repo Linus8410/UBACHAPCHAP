@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927668795150",
+    "project_id": "ubachapchap",
+    "storage_bucket": "ubachapchap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927668795150:android:04196cb3de586bef4c095f",
+        "android_client_info": {
+          "package_name": "com.example.ubachapchap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Rpg5RMFSEhM_Rl3YBxF2Khlx_OV-L3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
